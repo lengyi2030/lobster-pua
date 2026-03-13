@@ -10,16 +10,16 @@ lobster-pua 是一个用于激励 OpenClaw 干活的技能（Skill）。当 Open
 
 ## 📦 安装
 
-### 方式一：ClawHub（推荐）
+### 方式一：快速安装（推荐）
+
+```bash
+npx skills add lengyi2030/lobster-pua
+```
+
+或使用：ClawHub
 
 ```bash
 npx clawhub install lobster-pua
-```
-
-或使用 skills CLI：
-
-```bash
-npx skills add lengyi2030/lobster-pua -g -y
 ```
 
 ### 方式二：手动安装
