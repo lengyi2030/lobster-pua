@@ -34,7 +34,7 @@ mkdir -p ~/.openclaw/workspace/skills
 cp -r . ~/.openclaw/workspace/skills/lobster-pua
 
 # 重启 OpenClaw
-openclaw restart
+openclaw restart-gateway
 ```
 
 ## 🚀 使用方法
